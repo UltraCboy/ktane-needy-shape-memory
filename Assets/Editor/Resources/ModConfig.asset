@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: needyShapeMemory
+  title: Needy Shape Memory
+  author: 
+  description: "IT'S FINALLY READY FOR RERELEASE!!!\n\n\u2014ahem, this is my modded
+    module, Needy Shape Memory. It's based off of a game that I'm not sure even has
+    a name, and it requires you to use your memory to compare shapes to shapes to
+    keep your timer up. If you run out of time or make a mistake, you risk taking
+    one step closer to an explosion.\n\nIf you have any issues or suggestions, your
+    best bet is to contact me on Discord, either through DMs or through the KTANE
+    Discord server. My username is UltraCboy#4639.\n\nModule ID: needyShapeMemory\nManual
+    Page: Available in the build folder, also available at https://ktane.timwi.de/HTML/Shape%20Memory.html\n\nThank
+    you, sorry for the long wait, and happy defusing!"
+  version: 2.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: fab307aa7ba6a164b8be9c980ff84bf9, type: 3}

@@ -28,7 +28,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1106904106191888
 GameObject:
   m_ObjectHideFlags: 0
@@ -917,6 +917,7 @@ MonoBehaviour:
   circleMat: {fileID: 2100000, guid: a9140c1770d10f4418b1f65f054b1996, type: 2}
   squareMat: {fileID: 2100000, guid: bff26ad04ca34d941a4c3e51591304cf, type: 2}
   triangleMat: {fileID: 2100000, guid: 3ecf008b4652ec942823dc2b1dd50c44, type: 2}
+  thisModuleID: 0
 --- !u!114 &114667936639213332
 MonoBehaviour:
   m_ObjectHideFlags: 1
